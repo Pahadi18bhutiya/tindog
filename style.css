@@ -1,0 +1,50 @@
+.color{
+    background-color: #ff4c68 !important;
+}
+.fs-9{
+    font-size: 4.5rem !important;
+    color: white;
+    font-weight: bold;
+    text-align:left !important;
+}
+.fs-8{
+    font-weight: bold;
+}
+.icon{
+    color: #ff4c68;
+}
+.fetures{
+    padding:7% 15% ;
+}
+.fs-7{
+    font-size: 1.5rem !important;
+}   
+.margin{
+    text-align: center;
+}
+.fs-6{
+    padding: 7% 12%;
+    background:#ff4c68 !important ;
+    color: white;
+    text-align: center;
+}
+.fs-5{
+    padding: 7% 10%;
+    text-align: center;
+}
+.fs-4{
+    padding: 100px;
+}
+.fs-3{
+    color: white !important;
+}
+.fs-1{
+    color: white !important;
+}
+.image{
+    width: 10%;
+    border-radius: 100%;
+}
+.wridth{
+    width: 10% !important;
+}
